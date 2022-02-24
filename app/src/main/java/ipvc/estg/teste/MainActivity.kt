@@ -7,5 +7,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)     // Teste exemplo exemplo
         setContentView(R.layout.activity_main) // Teste exemplo
+
+        // Alteraçãao para a funcionalidade do brench
+        // Alteração para o brench
+
     }
 }
