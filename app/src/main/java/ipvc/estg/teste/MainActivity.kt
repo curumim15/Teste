@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main) // Teste exemplo
 
         // Alteraçãao para a funcionalidade do brench
-        // Alteração para o brench
+        // Alteração para o brench da funcionalidade
 
     }
 }
